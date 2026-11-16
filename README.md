@@ -17,6 +17,13 @@
 | [AXIOM](https://mdrkstudio.ru/cases/axiom-industrial) | Браузерная 3D-презентация промышленного объекта: маршрут камеры, детали оборудования и схема связей. | React Three Fiber, Three.js, GLSL |
 | [Underwater](https://mdrkstudio.ru/underwater) | Подводное приключение: исследование мира, кислород, опасности и развитие снаряжения. Готовлю публичный выпуск для Android. | Godot 4, GDScript |
 
+## Код проектов
+
+- [Telegram Ollama Bot](https://github.com/GennadiyDdd/telegram-ollama-bot) - Python-бот с ответами через Ollama и режимом работы из терминала.
+- [Orbital Archive](https://github.com/GennadiyDdd/orbital-archive) - процедурный подводный мир на Three.js и GLSL с непрерывным маршрутом камеры.
+
+Исходники обоих проектов доступны по лицензии PolyForm Noncommercial 1.0.0.
+
 ## С чем работаю
 
 [![Технологии МДРК](https://skillicons.dev/icons?i=react,nextjs,ts,python,go,postgres,swift,threejs,godot,qt&perline=5)](https://github.com/tandpfun/skill-icons)
