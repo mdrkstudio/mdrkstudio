@@ -19,10 +19,10 @@
 
 ## Код проектов
 
-- [Telegram Ollama Bot](https://github.com/GennadiyDdd/telegram-ollama-bot) - Python-бот с ответами через Ollama и режимом работы из терминала.
-- [Orbital Archive](https://github.com/GennadiyDdd/orbital-archive) - процедурный подводный мир на Three.js и GLSL с непрерывным маршрутом камеры.
+- [Telegram Ollama Bot](https://github.com/mdrkstudio/telegram-ollama-bot) - Python-бот с ответами через Ollama и режимом работы из терминала.
+- [Orbital Archive](https://github.com/mdrkstudio/orbital-archive) - процедурный подводный мир на Three.js и GLSL с непрерывным маршрутом камеры.
 
-- [Hand Gesture Control](https://github.com/GennadiyDdd/hand-gesture-control) - управление macOS жестами: громкость, музыка, прокрутка и рабочие столы на Python, MediaPipe и OpenCV.
+- [Hand Gesture Control](https://github.com/mdrkstudio/hand-gesture-control) - управление macOS жестами: громкость, музыка, прокрутка и рабочие столы на Python, MediaPipe и OpenCV.
 
 Исходники этих проектов доступны по лицензии PolyForm Noncommercial 1.0.0.
 
