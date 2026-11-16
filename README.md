@@ -26,6 +26,10 @@
 
 - [AXIOM](https://github.com/mdrkstudio/axiom-industrial) - интерактивная 3D-презентация промышленного объекта с маршрутом камеры, оборудованием и схемой связей.
 
+- [Support Analyst](https://github.com/mdrkstudio/support-analyst) - импорт обращений, группы проблем, повторы и отчёты для команды.
+- [Website Toolkit](https://github.com/mdrkstudio/website-toolkit) - Swift-библиотека нормализации адресов сайтов и извлечения контактов из HTML.
+- [Print Kit](https://github.com/mdrkstudio/print-kit) - карточки гостей, номера столов и рассадка из CSV, JSON и Excel.
+
 Исходники этих проектов доступны по лицензии PolyForm Noncommercial 1.0.0.
 
 ## Демонстрации
