@@ -19,6 +19,8 @@
 
 ## С чем работаю
 
+[![Технологии МДРК](https://skillicons.dev/icons?i=react,nextjs,ts,python,go,postgres,swift,threejs,godot,qt&perline=5)](https://github.com/tandpfun/skill-icons)
+
 - Веб: React, Next.js, TypeScript, JavaScript.
 - Серверная разработка и автоматизация: Go, Python, PostgreSQL, HTTP API и фоновые задачи.
 - Desktop: Swift, SwiftUI, Qt.
