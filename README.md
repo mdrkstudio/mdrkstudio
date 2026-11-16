@@ -28,6 +28,16 @@
 
 Исходники этих проектов доступны по лицензии PolyForm Noncommercial 1.0.0.
 
+## Демонстрации
+
+| [AXIOM](https://github.com/mdrkstudio/axiom-industrial) | [Orbital Archive](https://github.com/mdrkstudio/orbital-archive) |
+| --- | --- |
+| [![AXIOM: маршрут камеры](https://raw.githubusercontent.com/mdrkstudio/axiom-industrial/main/docs/demo.gif)](https://github.com/mdrkstudio/axiom-industrial) | [![Orbital Archive: подводный мир](https://raw.githubusercontent.com/mdrkstudio/orbital-archive/main/docs/demo.gif)](https://github.com/mdrkstudio/orbital-archive) |
+| [Telegram Ollama Bot](https://github.com/mdrkstudio/telegram-ollama-bot) | [Hand Gesture Control](https://github.com/mdrkstudio/hand-gesture-control) |
+| [![Бот: анимированный пример CLI с реальным ответом Ollama](https://raw.githubusercontent.com/mdrkstudio/telegram-ollama-bot/main/docs/demo.gif)](https://github.com/mdrkstudio/telegram-ollama-bot) | [![Жесты: поясняющая схема регулировки громкости](https://raw.githubusercontent.com/mdrkstudio/hand-gesture-control/main/docs/demo.gif)](https://github.com/mdrkstudio/hand-gesture-control) |
+
+В примере бота показан реальный ответ Ollama с воссозданным отображением терминала. Управление жестами показано поясняющей схемой.
+
 ## С чем работаю
 
 [![Технологии МДРК](https://skillicons.dev/icons?i=react,nextjs,ts,python,go,postgres,swift,threejs,godot,qt&perline=5)](https://github.com/tandpfun/skill-icons)
