@@ -24,6 +24,8 @@
 
 - [Hand Gesture Control](https://github.com/mdrkstudio/hand-gesture-control) - управление macOS жестами: громкость, музыка, прокрутка и рабочие столы на Python, MediaPipe и OpenCV.
 
+- [AXIOM](https://github.com/mdrkstudio/axiom-industrial) - интерактивная 3D-презентация промышленного объекта с маршрутом камеры, оборудованием и схемой связей.
+
 Исходники этих проектов доступны по лицензии PolyForm Noncommercial 1.0.0.
 
 ## С чем работаю
